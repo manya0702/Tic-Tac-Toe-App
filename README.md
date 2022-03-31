@@ -1,15 +1,16 @@
-# Tic-Tac-Toe-App
+# tic_tac_toe_sample
 
-We all have played Tic-tac-toe, Noughts, and Crosses, or Xs and Os and enjoyed playing it too.
+A new Flutter project.
 
-So here's is an implementation of the game using Flutter
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-### Implementation
+A few resources to get you started if this is your first Flutter project:
 
-Whenever a player wins, loses or draws a game with another player, a dialog box displaying the result of the game pops on the screen. After finishing a game, a player may even use the reset button present at the bottom of the application to reset the entire game.
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-
-
-
-<img width="125" alt="tic_tac_toe" src="https://user-images.githubusercontent.com/72210577/161072851-1e9ca356-1c0d-4847-8868-71f3e7135021.png">
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
